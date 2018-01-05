@@ -175,7 +175,7 @@
       "express",
       "ip",
       "minimist",
-      "sanitize.css",
+      "sanitize.css"
     ],
     "include": [
       "core-js",
